@@ -1,2 +1,2 @@
 # TicTacToe
-Make a tictactoe game
+Make a Tictactoe console game in Java
